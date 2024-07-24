@@ -1,5 +1,0 @@
-pandas 
-numpy 
-transformers 
-datasets 
-scikit-learn 
